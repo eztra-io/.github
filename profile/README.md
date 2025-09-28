@@ -13,20 +13,6 @@ Eztra.io is a blockchain platform focusing on **swap**, **bridge**, and **DeFi i
 - 🔐 **Secure Architecture**: Built with strong security and reliability at its core.
 - 📱 **User-friendly Interface**: Simple, intuitive design for all levels of users.
 
-## 📦 Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/eztra.io.git
-
-# Navigate
-tcd eztra.io
-
-# Install dependencies
-npm install
-
-# Start development
-npm run dev
-```
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
